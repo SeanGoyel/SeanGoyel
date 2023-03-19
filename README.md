@@ -1,5 +1,5 @@
 ## Hi I am Sean, nice to meet you friend 👋
-- Senior computer science student at the [UBC](https://www.cs.ubc.ca/students/undergrad/prospective/switching/computer-science-specializations)
+- Senior computer science student at [UBC](https://www.cs.ubc.ca/students/undergrad/prospective/switching/computer-science-specializations)
 - Seeking new grad Software Engineering positions for 2023
 - If **there is a problem**: I will solve it **or** Die from sleep deprivation
     - I am currently: Alive
