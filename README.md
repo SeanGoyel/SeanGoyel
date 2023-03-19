@@ -17,9 +17,9 @@
     - Delivered project early, expanded scope, attracted 3 million daily users
     - Earned recognition for design skills
     - Led cross-functional teams to establish a new team for project continuity.
-- Software Engineer Intern at Philips
+- Software engineer intern at Philips
     - Contributed to 25+ features
-- Full-stack developer co-op
+- Full-stack developer co-op at ResponsiveAds
     - Solely, integrated Facebook into Studio App
 
 
